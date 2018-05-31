@@ -1,0 +1,13 @@
+@import "dataTables.jqueryui.css";
+
+div.pagination{
+	font-size: 15pt;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 10px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	text-align: center;
+	background: white;
+	border-radius: 10px;
+}
